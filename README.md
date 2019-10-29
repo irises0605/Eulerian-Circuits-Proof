@@ -29,3 +29,5 @@ pdfTex Main.tex
 
 ### Desired output
 
+The desired output is a complete proof of the Könisberg Bride Problem and is attached at [Paths_in_Graphs.pdf](https://github.com/irises0605/Pure-Mathematicas-Projects/blob/master/Paths_in_Graphs.pdf).
+
