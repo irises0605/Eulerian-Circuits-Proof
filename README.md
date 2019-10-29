@@ -15,9 +15,7 @@ What things you need to install
 LaTex
 ```
 
-Or you can also use the online LaTex editor 
-
-Overleaf(https://www.overleaf.com)
+Or you can also use the online LaTex editor Overleaf(https://www.overleaf.com).
 
 
 ## Running the tests
