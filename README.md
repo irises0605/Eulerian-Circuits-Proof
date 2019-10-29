@@ -23,7 +23,7 @@ Or you can also use the online LaTex editor Overleaf(https://www.overleaf.com).
 To run Main.java, go to your terminal and the folder/path where the file is located, and enter 
 
 ```
-javac Main.java
+pdfTex Main.tex
 ```
 
 
