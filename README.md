@@ -1,4 +1,4 @@
-# Pure-Mathematicas-Project
+# Eulerian-Path-Proof
 
 This project explores two applications of paths and circuits in graphs, the Könisberg Bride Problem and Hamiltonian paths in DNA reconstruction. All relevan information other than the code was obtained using the textbook *The Structures of Mathematics* written by Professor Scott A. Taylor from Colby College. The textbook is available to Colby students online. 
 
